@@ -1,4 +1,3 @@
-```markdown
 # Mental Health Text Classification with HuggingFace BERT
 
 This project focuses on classifying mental health-related texts into categories such as **Normal**, **Depression**, **Suicidal**, **Anxiety**, **Stress**, **Bipolar**, and **Personality Disorder**. Using HuggingFace's BERT model, the solution leverages state-of-the-art natural language processing (NLP) techniques to address critical mental health challenges.
